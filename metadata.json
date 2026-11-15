@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Mars Explorer",
+  "description": "Interactive 3D planetary exploration, NASA dataset visualization, terrain hazard analysis, and astronaut mission route planning platform centered on Jezero Crater.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
